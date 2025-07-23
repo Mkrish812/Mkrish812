@@ -10,9 +10,8 @@
   🔄 Currently enhancing my skills by diving deeper into full-stack projects and exploring advanced web technologies.
 </p>
 
-
-- 🔭 I’m currently working as a **React Native App Developer (Part-time)**
-- 🌱 Currently focused on mastering **Full Stack Development (React, Next.js, Tailwind CSS, React Native)**
+<br />
+- 🌱 Currently focused on mastering **Full Stack Development (React, Next.js, Tailwind CSS)**
 - 💬 Ask me about **frontend development, UI/UX design, and modern JavaScript frameworks**
 - 📫 Reach me at **muralikris812@gmail.com**
 
