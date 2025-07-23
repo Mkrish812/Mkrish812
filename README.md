@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm MuraliKrishna AG</h1>
-<h3 align="center">
-An MCA student at Presidency College, Chennai with a strong foundation in Computer Science (B.Sc.). I specialize in modern web and mobile development using technologies like React, Next.js, and Tailwind CSS. I have hands-on experience as a freelancer and currently work part-time as a React Native developer. I'm passionate about building scalable digital solutions, clean UI/UX, and continuous learning.
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+MuraliKrishna+AG;MCA+Student+%7C+Full+Stack+Developer;Passionate+about+Web+and+Mobile+Development" alt="Typing SVG" />
+</div>
+
+<p align="">
+  🚀 MCA student at <strong>Presidency College, Chennai</strong>, with a strong academic foundation in <strong>Computer Science (B.Sc.)</strong>.<br />
+  💡 Specializing in modern full-stack web and mobile development using <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and more.<br />
+  🛠️ Gained hands-on experience by completing multiple freelance and personal projects, focusing on building scalable, clean, and responsive UI/UX solutions.<br />
+  🔄 Currently enhancing my skills by diving deeper into full-stack projects and exploring advanced web technologies.
+</p>
+
 
 - 🔭 I’m currently working as a **React Native App Developer (Part-time)**
 - 🌱 Currently focused on mastering **Full Stack Development (React, Next.js, Tailwind CSS, React Native)**
