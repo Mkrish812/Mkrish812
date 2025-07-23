@@ -1,10 +1,11 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+MuraliKrishna+AG;MCA+Student+%7C+Full+Stack+Developer;Web+%26+Mobile+Technology+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+MuraliKrishna+AG;MCA+Student+%7C+Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 <!-- Summary paragraph -->
-<p align="center">
+<h3>📌 About Me</h3>
+<p align="left">
   🎓 MCA student at <strong>Presidency College, Chennai</strong> with a solid foundation in <strong>Computer Science (B.Sc.)</strong><br />
   💻 Specializing in full-stack web and mobile development using <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and other modern technologies<br />
   🔨 Completed several freelance and personal projects with a focus on scalable architecture and clean UI/UX<br />
