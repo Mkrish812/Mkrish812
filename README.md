@@ -12,16 +12,29 @@
   🚀 Currently sharpening my skills through advanced full-stack development and real-world project building
 </p>
 
+<!-- Experience -->
+<h3>📌 Experience</h3>
+
+<p align="left">
+  <strong>Freelance React Native Developer</strong> (Apr 2024 - Feb 2025 · Remote)<br />
+  Developed a hybrid mobile app for data agents to collect and manage field data efficiently, with seamless offline support.<br />
+  <em>Key Highlights:</em> Project/shop allocation modules, interview workflow with timestamps & GPS, profile updates, and leave scheduling.<br />
+  <em>Achievements:</em> Integrated SurveyJS in React Native, built offline-first data flow, strengthened API integration and performance optimization skills.<br /><br />
+
+  <strong>Graphic Designer at RishInternational</strong> (Jan 2024 - Mar 2024 · On-site, Salem, TN)<br />
+  Created product-focused visual designs enhancing brand appeal across global markets.<br />
+  <em>Key Highlights:</em> Product packaging & promotional material design using Adobe Illustrator & Photoshop, collaborative production work.<br />
+  <em>Achievements:</em> Applied professional-level Adobe Illustrator & Photoshop skills and contributed successfully to product design projects.
+</p>
+
 <!-- Quick facts -->
 <h3>📌 Quick Facts</h3>
-
 - 🌱 Currently learning and building with **React**, **Next.js**, **Tailwind CSS**, **MongoDB**, and more  
 - 💬 Open to collaboration in **frontend/backend projects**, **UI design**, or **tech content writing**  
 - 📫 Reach me at: **muralikris812@gmail.com**
 
 <!-- Tools & Languages -->
 <h3>🛠️ Languages & Tools</h3>
-
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
